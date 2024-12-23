@@ -3,39 +3,32 @@ import math
 def solve(k, l1, r1, l2, r2):
     count = 0
     for n in range(32+1):
-        if l1*(k**n) > r2:
-            break
+        a = l1
+        b = r1+1
+        while a < b:
+            mid = (a+b)//2
+            if mid*(k**n) < l2:
+                a = mid+1
+            else:
+                b = mid
 
-        if r1*(k**n) < l2:
+        minx = a
+        if minx > r1:
             continue
 
-        a = l1
-        b = r1
-        while a <= b:
-            minx = (a+b)//2
-            if minx*(k**n) < l2:
-                a = minx+1
-            else:
-                b = minx-1
-
-        if b < l1 or b*(k**n) < l2:
-            minx = a
-        else:
-            minx = b
 
         a = l1
-        b = r1
-        while a <= b:
-            maxx = (a+b)//2
-            if maxx*(k**n) > r2:
-                b = maxx-1
+        b = r1+1
+        while a < b:
+            mid = (a+b)//2
+            if mid*(k**n) <= r2:
+                a = mid + 1
             else:
-                a = maxx+1
+                b = mid
 
-        if a > r1 or a*(k**n) > r2:
-            maxx = b
-        else:
-            maxx = a
+        maxx = a - 1
+        if maxx < l1:
+            break
 
         count += maxx - minx + 1
 
