@@ -67,7 +67,8 @@
 - What are the invariants in the problem?
 - What are the invariants in the solution?
 
-## Codeforces 2049 B (1300g (2024-12-30g (45 ging
+
+## Codeforces 2049 B (1300) (2024-12-30) (45 min)
 
 ### Good
 
@@ -82,3 +83,90 @@
 
 #### Questions I should have asked
 - What properties / invariants does the problem have? (this is the second time I write this)
+
+
+## Codeforces 2041 E (1200) (2024-12-31) (14 min)
+
+### Good
+- Was able to solve it
+- The first solution I thought of was correct
+- I took my time with pen an paper to validate the idea
+- I mathematically proved that the idea was correct
+
+### Bad
+- My first attempt was incorrect because I forgot to print the length of the array, I just printed the array
+
+### Action items
+- Vefify that the output structure matches the outputs in the examples
+
+#### Questions I should have asked
+
+
+## Codeforces 2037 D (1300) (2024-12-31) (34 min)
+
+### Good
+- Was able to solve it in the first attempt
+- The first solution I thought of was correct
+- I took my time with pen an paper to validate the idea
+- I came up with the same solution idea as the one in the editorial
+- The max heap solution I came up with is the same as in the editorial code
+
+### Bad
+- Had to look how to implement a max heap in python, the standard library only has a min heap implementation. Ended up negating the values
+- When trying locally, I hitted an out of bounds error while iterating an array. I have to internalize that I must check bounds before accessing an array by index
+
+### Action items
+- Ensure I ALWAYS check bounds before accessing by index
+
+#### Questions I should have asked
+
+
+## Codeforces 2038 C (1400) (2024-12-31) (36 min)
+
+### Good
+- Was able to solve it in the first attempt
+- The first solution I thought of was correct, except for one edge case that I found during my tests
+
+### Bad
+- There was an edge case that I was able to solve, however, I did not understand the solution when I submitted the solution, so I was not certain that I was covering all cases
+- It was possible fix the edge case adding an extra if, that would have ensured that the solution was correct
+
+### Action items
+- Try to force correct solutions with code if unsure. For example, in this problem switching x2 for y2 solved the issue, but I did not understand why. A better solution would have been to compute the area with and without the switch, and keep the values that maximized the area
+
+#### Questions I should have asked
+- Can I add a condition to guarantee that the answer will be correct?
+
+
+## Codeforces 2050 E (1500) (2024-01-01) (3 hs)
+
+### Good
+- Was able to desing the correct solution in less than 30 minutes.
+
+### Bad
+- The first implementation I made with recursive DP hit the recursion limit, so I got a runtime error
+- I implemented an iterative DP solution and hit the time limit
+- When I looked at the editorial, my solution was correct, but it seems that python is too slow for some reason. I implemented both iterative and recursive DP solutions in golang with the same logic and both got accepted
+- After the reading the editorial I spent a lot of time trying to understand why my solution did not work. I ended up implementing it in golang just to validate if my logic was incorrect
+
+### Action items
+- Migrate to C++, Rust or Golang
+
+#### Questions I should have asked
+
+
+## Codeforces 2041 B (1200) (2024-01-01) (1+ hs)
+
+### Good
+
+### Bad
+- Was not able to solve it
+- I feel I could have solved it if I tried to find out more about the problem properties
+- I focused on coming up with an algorithm instead of taking time to find out invariants / properties
+
+### Action items
+- Dedicate more time to invariant, properties
+- Whenever I know of a necessary condition to solve the problem, I MUST ask if that condition is also sufficient. In this case it was, If i had enough pins, then that was sufficient to know that an arrangement existed
+
+#### Questions I should have asked
+- Is this neccesary condition also a sufficient condition?
