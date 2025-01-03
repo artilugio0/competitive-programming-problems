@@ -312,3 +312,80 @@ NO
 
 #### Questions I should have asked
 - Can I prove that my approach is correct?
+
+
+## Codeforces 2033 D (1300) (2024-01-03) (33 min)
+
+### Success
+YES
+
+### Good
+- Solved in first submission
+- I was able to find the correct approach by analyzing the problem with pen and paper, and skectched a proof
+
+### Bad
+- My initial implementation was wrong, it was more complicated than it needed to be. That made me introduce a bug, luckily I was able to spot it before submitting
+
+### Action items
+
+#### Questions I should have asked
+- Can I make this logic simpler?
+
+
+## Codeforces 2033 C (1400) (2024-01-03) (30 min)
+
+### Success
+NO
+
+### Good
+- I thought correctly the structure of the solution, but I failed with a detail that caused edge cases
+
+### Bad
+- I was not able to see that my solution would hit and edge case in the way I solved it
+- I am still not sure if I would have been able to come up with the solution that works on all cases
+
+### Action items
+- Always validate the solution. Try to break it
+- Try to divide the problem in different cases to find edge cases
+
+#### Questions I should have asked
+- Can this problem be divided into cases?
+- Can I think of a case that will break this solution?
+
+
+## Codeforces 2032 C (1400) (2024-01-03) (1h+)
+
+### Success
+NO
+
+### Good
+
+### Bad
+- I thought I had a solution, but it hitted multiple edge cases
+- Missunderstood "For every pairwise distinct triplet of indices", I was thinking abount "items" in the array, not indeces
+- Spent more time than assigned
+- I do not understand the editorial
+
+### Action items
+- DO NOT SPEND MORE TIME THAN THE ASSIGNED!!!!
+- Decrease dificulty to 1200
+
+#### Questions I should have asked
+
+
+## Codeforces 2021 B (1200) (2024-01-03) (30 min)
+
+### Success
+NO
+
+### Good
+
+### Bad
+- I worked in a solution which was incorrect
+
+### Action items
+- Validate solutions before start coding
+- Decrease dificulty to 1000
+
+#### Questions I should have asked
+- Does this solution give the required answer?
