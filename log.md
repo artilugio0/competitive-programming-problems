@@ -1,5 +1,8 @@
 ## Codeforces 2038 L (1400) (2024-12-30)
 
+### Success
+YES
+
 ### Good
 * I quickly realized that this could be solved using a greedy algorithm
 
@@ -22,6 +25,9 @@
 
 
 ## Codeforces 2049 C (1500) (2024-12-30)
+
+### Success
+YES
 
 ### Good
 * I was able to solve it first try.
@@ -47,6 +53,9 @@
 
 ## Codeforces 2046 A (1200) (2024-12-30) (43 min)
 
+### Success
+YES
+
 ### Good
 - I was able to solve it in less than 45 min
 - I was able to understand the problem fairly quickly, and understand how all the examples worked
@@ -70,6 +79,9 @@
 
 ## Codeforces 2049 B (1300) (2024-12-30) (45 min)
 
+### Success
+NO
+
 ### Good
 
 ### Bad
@@ -87,6 +99,9 @@
 
 ## Codeforces 2041 E (1200) (2024-12-31) (14 min)
 
+### Success
+YES
+
 ### Good
 - Was able to solve it
 - The first solution I thought of was correct
@@ -103,6 +118,9 @@
 
 
 ## Codeforces 2037 D (1300) (2024-12-31) (34 min)
+
+### Success
+YES
 
 ### Good
 - Was able to solve it in the first attempt
@@ -123,6 +141,9 @@
 
 ## Codeforces 2038 C (1400) (2024-12-31) (36 min)
 
+### Success
+YES
+
 ### Good
 - Was able to solve it in the first attempt
 - The first solution I thought of was correct, except for one edge case that I found during my tests
@@ -139,6 +160,9 @@
 
 
 ## Codeforces 2050 E (1500) (2024-01-01) (3 hs)
+
+### Success
+YES
 
 ### Good
 - Was able to desing the correct solution in less than 30 minutes.
@@ -157,6 +181,9 @@
 
 ## Codeforces 2041 B (1200) (2024-01-01) (1+ hs)
 
+### Success
+NO
+
 ### Good
 
 ### Bad
@@ -170,3 +197,118 @@
 
 #### Questions I should have asked
 - Is this neccesary condition also a sufficient condition?
+
+
+## Codeforces 2041 B (1200) (2024-01-01) (unknown)
+
+### Success
+YES
+
+### Good
+- I was able to solve it
+- Although my first attempt hit a time limit, the code was correct. Using PyPy with the same code all tests passed
+
+### Bad
+- My clock run out of battery, so I don't have idea how much time I spent in the problem. I feel that it was less than an hour in total
+- I tried troubleshooting my code instead of first trying with PyPy
+
+### Action items
+- Always try with PyPy if the python solution reachs a time limit
+- Migrate to C++ / Golang / Rust
+
+#### Questions I should have asked
+
+
+## Codeforces 2038 A (1400) (2024-01-01) (34 min approx)
+
+### Success
+YES
+
+### Good
+- I was able to solve it on the first try
+
+### Bad
+- I forgot to time my resolution
+
+### Action items
+
+#### Questions I should have asked
+
+
+## Codeforces 2038 A (1200) (2024-01-02) (1 h approx)
+
+### Success
+NO
+
+### Good
+
+### Bad
+- Did not know how to approach the problem
+- I was unsure if I could brute force over a value ~ 10**7
+- Did not know what relevant questions to ask myself
+
+### Action items
+- Learn more about time complexity, when is it ok to iterate over results? aka: how many ops can I perform per second in a safe way?
+- Learn more about bitwise operations
+- With problems related to bitwise operations, always think in terms of powers of 2
+
+#### Questions I should have asked
+- Is it ok to bruteforce over this range?
+- Is there a way to find an upper bound to the value of X (lower that the one given in the problem statement)?
+- Can this problem be divided into cases?
+
+
+## Codeforces 2035 C (1400) (2024-01-02) (2 h)
+
+### Success
+NO
+
+### Good
+- I had an idea of how to solve it, but could not figure out the details
+
+### Bad
+- Could not solve it, even reading the editorial
+
+### Action items
+- Learn more about bitwise operations
+- NEVER USE MORE TIME THAN WHAT I HAVE INITIALLY ASSIGNED!!!!!
+
+#### Questions I should have asked
+- Can this problem be divided into cases?
+- Can I find cases where the solution is easy?
+
+
+## Codeforces 2034 C (1400) (2024-01-02) (45 min + extra for implementation in golang)
+
+### Success
+YES
+
+### Good
+- I was able to come up with a correct solution in my first attempt
+
+### Bad
+- The implementation in python was too slow. I had to migrate it to golang to pass all tests
+
+### Action items
+- Start using C++ / Rust
+
+#### Questions I should have asked
+
+
+## Codeforces 2033 E (1400) (2024-01-02) (1 h)
+
+### Success
+NO
+
+### Good
+
+### Bad
+- I was not able to come up with the correct solution.
+- I though I had it. Had some trouble implementing it, but I hitted an edgecase that made my solution incorrect
+- I spent too much time once again, I was sure that my approach was correct, but it wasnt
+
+### Action items
+- Stop when time is up, always. No matter if I think that the ongoing implementation is the correct solution. This will help me utilize my time more efficiently
+
+#### Questions I should have asked
+- Can I prove that my approach is correct?
