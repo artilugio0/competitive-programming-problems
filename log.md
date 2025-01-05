@@ -389,3 +389,89 @@ NO
 
 #### Questions I should have asked
 - Does this solution give the required answer?
+
+
+## Codeforces 1773 F (800) (2024-01-04) (32 min)
+
+### Success
+YES
+
+### Good
+- Solved in first attempt
+
+### Bad
+- Spent more than 30 minutes
+
+### Action items
+- Identify points where the strategy might change
+- Think of different scenarios
+
+#### Questions I should have asked
+- Is there a value that can take variable X that makes the solution easier? or harder?
+
+
+## Codeforces 2050 A (800) (2024-01-05) (8 min)
+
+### Success
+YES
+
+### Good
+- Solved in first attempt
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
+
+
+## Codeforces 2049 A (800) (2024-01-05) (27 min)
+
+### Success
+YES
+
+### Good
+- Solved in less than 30 minutes
+- I was able to identify the possible values of the outputs
+
+### Bad
+- Failed first attempt because I did not consider a scenario
+- My solution is complicated
+
+### Action items
+
+#### Questions I should have asked
+- Can this case be generalized to include more cases?
+
+
+## Codeforces 2048 A (800) (2024-01-05) (10 min)
+
+### Success
+YES
+
+### Good
+- Solved in the first attempt
+- I was able to identify the condition hidden in the question (being multiple of 33) 
+
+### Bad
+- I was not able to prove that it would work in every case. I was lucky that it passed all the tests. (I know I can prove it, but I did not want to spend the time, now that I know that it works I will prove it)
+
+### Action items
+
+#### Questions I should have asked
+
+
+## Codeforces 2047 A (800) (2024-01-05) (11 min)
+
+### Success
+YES
+
+### Good
+- Solved in the first attempt
+- I was able to identify the condition hidden in the question (square of an odd number)
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
