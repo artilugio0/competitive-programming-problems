@@ -475,3 +475,18 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 2048 B (900) (2024-01-05) (17 min)
+
+### Success
+YES
+
+### Good
+- Solved in the first attempt
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
