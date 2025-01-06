@@ -484,9 +484,74 @@ YES
 
 ### Good
 - Solved in the first attempt
+- Same solution as in the editorial
 
 ### Bad
+- I had to reread the problem statement because at first I miss undertsood it
+- I did not know from the top of my mind a way to construct the permutation if I needed to reserve some items to put it in strategic places. I had to come up with a way, it would have been nice to know this by heart
+
+### Action items
+- Study an algorithm to build permutations reserving items
+
+#### Questions I should have asked
+
+
+## Codeforces 2047 B (900) (2024-01-05) (26 min)
+
+### Success
+YES
+
+### Good
+- Solved in less than 30 min
+- I realized how to solve the problem relatively quickly
+- Same solution as in the editorial
+
+### Bad
+- My first attempt was incorrect
+- Although I knew how to solve the problem, I was not able to write the implementation quickly. I knew there were some edge cases that I would have to deal with (such as when all the characters are the same, or when all characters had the same frequency). This made me lose a lot of time
+- It was hard for me to come up with a way to compute the max and min elements. I had to change the implementation completely because I was hitting a bug
+
+### Action items
+- Study an algorithm to find the max and min frequency elements from a list
+
+#### Questions I should have asked
+
+
+## Codeforces 2042 B (900) (2024-01-05) (12 min)
+
+### Success
+YES
+
+### Good
+- Solved in first attempt
+- Same solution as in the editorial
+
+### Bad
+- My first implementation had a bug, but I was able to spot it with the local tests
+
+### Action items
+- Make sure that each step in the implementation is correct
+
+#### Questions I should have asked
+- Is this step correct?
+
+
+## Codeforces 2035 B (900) (2024-01-05) (23 min)
+
+### Success
+YES
+
+### Good
+- Solved in first attempt
+- Same solution as in the editorial (with a minor implementation detail, but the overall idea is the same)
+
+### Bad
+- I was not able to formally prove that the solution would work, however, from experimentation I was pretty confident. Still, I had doubts when I submitted the solution
+- I had 7 more minutes to try and prove, but I was not confident that I would succeed
+- I feel I could have solved it faster if I had asked the right questions, or looked for patterns earlier
 
 ### Action items
 
 #### Questions I should have asked
+- Is there a pattern in the test cases?
+- Do odd and even make a difference?
