@@ -573,3 +573,24 @@ YES
 - Keep calm and trust in yourself
 
 #### Questions I should have asked
+
+
+## Codeforces 2040 B (1000) (2024-01-07) (34 min)
+
+### Success
+YES
+
+### Good
+
+### Bad
+- I used more than 30 minutes
+- I did not think of edge cases, my first submission was incorrect
+- I made a silly bug which caused a TLE
+- I did not started the timer later (15 minutes after starting approx), so I am not sure of the time I spent
+
+### Action items
+- Decrease difficulty to 900
+
+#### Questions I should have asked
+- Can I break this solution?
+- Is there a case where this solution does not give the correct answer?
