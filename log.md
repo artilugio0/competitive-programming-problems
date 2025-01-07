@@ -575,7 +575,7 @@ YES
 #### Questions I should have asked
 
 
-## Codeforces 2040 B (1000) (2024-01-07) (34 min)
+## Codeforces 2039 B (1000) (2024-01-07) (34 min)
 
 ### Success
 YES
@@ -594,3 +594,20 @@ YES
 #### Questions I should have asked
 - Can I break this solution?
 - Is there a case where this solution does not give the correct answer?
+
+
+## Codeforces 2033 B (900) (2024-01-07) (21 min)
+
+### Success
+YES
+
+### Good
+- Solved it in first attempt
+
+### Bad
+- Spent a lot of time figuring out how to iterate over the diagonals of a matrix
+
+### Action items
+- Study how to iterate over the diagonals of a matrix
+
+#### Questions I should have asked
