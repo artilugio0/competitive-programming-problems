@@ -611,3 +611,22 @@ YES
 - Study how to iterate over the diagonals of a matrix
 
 #### Questions I should have asked
+
+
+## Codeforces 2031 B (900) (2024-01-07) (41 min)
+
+### Success
+YES
+
+### Good
+- Could not solve it in less than 30 min
+
+### Bad
+- Spent a lot of time figuring out how the correct solution
+- Made a mistake in my first implementation, bug in logic
+
+### Action items
+- Go back to 800
+
+#### Questions I should have asked
+- Is this condition sufficient or just necessary?
