@@ -555,3 +555,21 @@ YES
 #### Questions I should have asked
 - Is there a pattern in the test cases?
 - Do odd and even make a difference?
+
+
+## Codeforces 2040 B (1000) (2024-01-07) (26 min)
+
+### Success
+YES
+
+### Good
+- Solved in first attempt
+- Same solution as in the editorial
+
+### Bad
+- I felt I would not be able to solve it in less than 30 minutes. I got really nervous towards the end
+
+### Action items
+- Keep calm and trust in yourself
+
+#### Questions I should have asked
