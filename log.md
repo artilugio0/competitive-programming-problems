@@ -630,3 +630,52 @@ YES
 
 #### Questions I should have asked
 - Is this condition sufficient or just necessary?
+
+
+## Codeforces 2042 A (800) (2024-01-08) (12 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
+
+
+## Codeforces 2040 A (800) (2024-01-08) (16 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+
+### Bad
+- Had several bugs during the implementation, but I could find them with the local tests
+
+### Action items
+
+#### Questions I should have asked
+- Is this step correct?
+- What is the answer space?
+
+
+## Codeforces 2039 A (800) (2024-01-08) (12 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+- Could deduce the optimal solution using math and prove it
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
