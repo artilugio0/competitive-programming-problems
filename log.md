@@ -679,3 +679,18 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 2038 A (800) (2024-01-08) (7 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
