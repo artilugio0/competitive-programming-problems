@@ -694,3 +694,18 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 2028 A (900) (2024-01-09) (17 min)
+
+### Success
+YES
+
+### Good
+
+### Bad
+- My first attempt failed, however, the mistake wasn't a big deal
+
+### Action items
+
+#### Questions I should have asked
