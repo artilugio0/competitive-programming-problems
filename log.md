@@ -709,3 +709,18 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 2026 A (900) (2024-01-09) (27 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
