@@ -724,3 +724,19 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 2013 B (900) (2024-01-09) (19 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+- Came up with a formula to compute the result
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
