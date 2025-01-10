@@ -780,6 +780,7 @@ YES
 YES
 
 ### Good
+- First attempt
 - I was able to come up with a mathematical solution, and proved that work on all cases
 - I resisted the urge to be smart on the implementation
 
@@ -788,3 +789,21 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 2034 B (1000) (2024-01-10) (12 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+
+### Bad
+- I had a bug in the first implementation, but could find it during local testing
+
+### Action items
+
+#### Questions I should have asked
+- Is this step correct?
+- Am I doing everything I need to do for this case / if this happens?
