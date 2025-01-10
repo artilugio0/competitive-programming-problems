@@ -807,3 +807,23 @@ YES
 #### Questions I should have asked
 - Is this step correct?
 - Am I doing everything I need to do for this case / if this happens?
+
+
+## Codeforces 2005 B1 (1000) (2024-01-10) (45+ min)
+
+### Success
+YES
+
+### Good
+- I was able to come up with a general plan to solve the problem dividing the problem in different cases
+
+### Bad
+- I was slow to implement the solution
+- My first submission was after the initial 30 mins, and it was incorrect
+- I had some off by one errors
+
+### Action items
+- Keep practicing
+- Go back to 900
+
+#### Questions I should have asked
