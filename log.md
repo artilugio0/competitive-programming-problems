@@ -772,3 +772,19 @@ YES
 - Resist the urge to be smart. Keep things simple
 
 #### Questions I should have asked
+
+
+## Codeforces 2037 C (1000) (2024-01-10) (14 min)
+
+### Success
+YES
+
+### Good
+- I was able to come up with a mathematical solution, and proved that work on all cases
+- I resisted the urge to be smart on the implementation
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
