@@ -861,3 +861,22 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 1990 A (900) (2024-01-11) (35 min)
+
+### Success
+YES
+
+### Good
+
+### Bad
+- Spent more than 30 minutes
+- My first attempt was incorrect, the logic was wrong
+- I found the correct solution on time, but was not able to implement the logic in code
+
+### Action items
+- Study how to count the number of times an element appears in an array
+- Go back to 800
+
+#### Questions I should have asked
