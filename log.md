@@ -827,3 +827,19 @@ YES
 - Go back to 900
 
 #### Questions I should have asked
+
+
+## Codeforces 2005 A (900) (2024-01-10) (14 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+- First implementation
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
