@@ -829,7 +829,7 @@ YES
 #### Questions I should have asked
 
 
-## Codeforces 2005 A (900) (2024-01-10) (14 min)
+## Codeforces 2005 A (900) (2024-01-11) (14 min)
 
 ### Success
 YES
@@ -837,6 +837,24 @@ YES
 ### Good
 - First attempt
 - First implementation
+- Proved that the solution was optimal
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
+
+
+## Codeforces 1992 C (900) (2024-01-11) (15 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+- First implementation
+- Proved that the solution was optimal
 
 ### Bad
 
