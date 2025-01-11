@@ -880,3 +880,19 @@ YES
 - Go back to 800
 
 #### Questions I should have asked
+
+
+## Codeforces 2053 A (800) (2024-01-11) (15 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+
+### Bad
+- First implementation was incorrect, but was able to find the problem in local tests
+
+### Action items
+
+#### Questions I should have asked
