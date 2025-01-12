@@ -912,3 +912,19 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 2051 A (800) (2024-01-12) (7 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+- First implementation
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
