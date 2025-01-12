@@ -896,3 +896,19 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 2051 B (800) (2024-01-12) (11 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+
+### Bad
+- First implementation was incorrect, but was able to find the problem in local tests
+
+### Action items
+
+#### Questions I should have asked
