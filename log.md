@@ -928,3 +928,19 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 2043 A (800) (2024-01-12) (10 min)
+
+### Success
+YES
+
+### Good
+
+### Bad
+- First implementation was incorrect
+
+### Action items
+- Avoid trying to be smart. Go for the simpler solution
+
+#### Questions I should have asked
