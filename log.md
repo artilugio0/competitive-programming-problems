@@ -977,3 +977,20 @@ YES
 - Keep things simple, if a simple loop is enough, then do that
 
 #### Questions I should have asked
+
+
+## Codeforces 1985 D (900) (2024-01-13) (25 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+
+### Bad
+- My initial implementation was incorrect, but could catch the bug during local testing
+- I feel that my implementation was more complicated than it needed to be
+
+### Action items
+
+#### Questions I should have asked
