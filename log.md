@@ -960,3 +960,20 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 1988 B (900) (2024-01-13) (8 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+
+### Bad
+- My initial implementation was incorrect, but could catch the bug during local testing
+
+### Action items
+- Keep things simple, if a simple loop is enough, then do that
+
+#### Questions I should have asked
