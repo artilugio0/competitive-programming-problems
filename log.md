@@ -944,3 +944,19 @@ YES
 - Avoid trying to be smart. Go for the simpler solution
 
 #### Questions I should have asked
+
+
+## Codeforces 1988 B (900) (2024-01-13) (8 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+- First implementation
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
