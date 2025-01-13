@@ -994,3 +994,22 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 1973 A (900) (2024-01-13) (27 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+- I was able to prove part of the solution mathematically
+
+### Bad
+- My initial implementation was incorrect, but could catch the bug during local testing
+- I was not sure that the part that I did not prove would work. However, it did work. I did not prove it because I was running out of time
+
+
+### Action items
+
+#### Questions I should have asked
