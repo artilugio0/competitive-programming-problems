@@ -1013,3 +1013,20 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 2004 B (1000) (2024-01-13) (26 min)
+
+### Success
+YES
+
+### Good
+
+### Bad
+- My initial implementation was incorrect, it missed one case
+- My initial implementation was more complicated than it needed to be
+
+### Action items
+- If the problem is related to intervals, always think about mins and max of the endpoints
+
+#### Questions I should have asked
