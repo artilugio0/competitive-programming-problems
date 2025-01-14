@@ -1046,3 +1046,21 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 2000 C (1000) (2024-01-14) (22 min)
+
+### Success
+YES
+
+### Good
+
+### Bad
+- My first implementation and submissions were incorrect
+- I initially failed to check all necessary conditions to ensure the output was correct
+
+### Action items
+- ALWAYS ask whether the condition is sufficient, event if it looks like it is... ask the question and spend some time trying to answer it
+
+#### Questions I should have asked
+- Is this condition sufficient?
