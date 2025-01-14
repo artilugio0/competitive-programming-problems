@@ -1064,3 +1064,24 @@ YES
 
 #### Questions I should have asked
 - Is this condition sufficient?
+
+
+## Codeforces 1999 B (1000) (2024-01-14) (36 min)
+
+### Success
+YES
+
+### Good
+
+### Bad
+- I got nervous
+- Was not able to finish it before the first 30 mins
+- My first approach was very complicated
+- Once the first 30 minutes were over, I did not feel pressure, so I started from scratch and solved it in 6 minutes
+
+### Action items
+- Practice more
+- Don't let time intimidate you
+- Go back to 900
+
+#### Questions I should have asked
