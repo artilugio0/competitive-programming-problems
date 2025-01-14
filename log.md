@@ -1015,7 +1015,7 @@ YES
 #### Questions I should have asked
 
 
-## Codeforces 2004 B (1000) (2024-01-13) (26 min)
+## Codeforces 2004 B (1000) (2024-01-14) (26 min)
 
 ### Success
 YES
@@ -1028,5 +1028,21 @@ YES
 
 ### Action items
 - If the problem is related to intervals, always think about mins and max of the endpoints
+
+#### Questions I should have asked
+
+
+## Codeforces 2002 B (1000) (2024-01-14) (13 min)
+
+### Success
+YES
+
+### Good
+- First implementation
+- First attempt
+
+### Bad
+
+### Action items
 
 #### Questions I should have asked
