@@ -1134,3 +1134,22 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 1951 A (900) (2024-01-15) (26 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+- Proved mathematically
+
+### Bad
+- First implementation had a bug, I did  not check the last character of a string because I was zipping it with itself. I was able to catch the but in local testing
+
+### Action items
+- Always be aware of the data that will not be looped through when using zip
+
+#### Questions I should have asked
+- Am I looping through the entire data?
