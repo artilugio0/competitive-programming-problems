@@ -1117,3 +1117,20 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 1954 A (900) (2024-01-15) (21 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+- First implementation
+- Proved mathematically
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
