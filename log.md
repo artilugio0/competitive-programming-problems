@@ -1093,9 +1093,26 @@ YES
 YES
 
 ### Good
+- First attempt
 - Was able to find and prove the solution mathematically
 
 ### Bad
+
+### Action items
+
+#### Questions I should have asked
+
+
+## Codeforces 1971 C (900) (2024-01-15) (11 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+
+### Bad
+- My first implementation had a bug and was more complicated than it needed to be. However I was able to catch the bug during local testing
 
 ### Action items
 
