@@ -1085,3 +1085,18 @@ YES
 - Go back to 900
 
 #### Questions I should have asked
+
+
+## Codeforces 1972 B (900) (2024-01-15) (23 min)
+
+### Success
+YES
+
+### Good
+- Was able to find and prove the solution mathematically
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
