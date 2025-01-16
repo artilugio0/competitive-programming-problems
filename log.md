@@ -1153,3 +1153,20 @@ YES
 
 #### Questions I should have asked
 - Am I looping through the entire data?
+
+
+## Codeforces 1998 B (1000) (2024-01-16) (12 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+- First Implementation
+- Proved mathematically
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
