@@ -1203,3 +1203,18 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 1941 C (900) (2024-01-18) (14 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
