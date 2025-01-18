@@ -1187,3 +1187,19 @@ NO
 
 #### Questions I should have asked
 - Can I solve this procedurally/constructively?
+
+
+## Codeforces 1945 B (900) (2024-01-18) (9 min)
+
+### Success
+YES
+
+### Good
+- First attempt
+- First implementation
+
+### Bad
+
+### Action items
+
+#### Questions I should have asked
