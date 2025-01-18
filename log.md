@@ -1170,3 +1170,20 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 1987 B (1000) (2024-01-18) (60+ min)
+
+### Success
+NO
+
+### Good
+
+### Bad
+- I spent too much time trying to find a mathematical solution. It would have been better to just code an imperative solution
+
+### Action items
+- Back to 900
+
+#### Questions I should have asked
+- Can I solve this procedurally/constructively?
