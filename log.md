@@ -1218,3 +1218,20 @@ YES
 ### Action items
 
 #### Questions I should have asked
+
+
+## Codeforces 1927 B (900) (2024-01-19) (20 min)
+
+### Success
+YES
+
+### Good
+- My first idea of how to solve it was correct
+
+### Bad
+- I had an implmentation issue, I used `s+=x` to build a string, which caused a performance problem leading to TLE
+
+### Action items
+- Never again use `s+=x` to build a string. Instead build a list of characters and join it at the end to get the string
+
+#### Questions I should have asked
